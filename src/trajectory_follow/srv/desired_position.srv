@@ -1,0 +1,8 @@
+# send the required positon
+# contains location and orientation
+geometry_msgs/Pose targetpose
+---
+# get process state
+string s
+moveit_msgs/RobotTrajectory trajectory
+
